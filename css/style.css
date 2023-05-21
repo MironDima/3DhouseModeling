@@ -1,0 +1,22 @@
+.prelouder {
+	margin: auto;
+	margin-top: 10px;
+	width: 20px;
+	height: 20px;
+	background-color: rgba(35, 182, 235, 0);
+	display: flex;
+	align-items: center;
+}
+
+.prelouder img {
+	width: 100%;
+	height: 100%;
+}
+
+.hide-prelouder {
+	display: none;
+}
+.inform{
+	color: rgba(232, 12, 12, 0.81);
+	font-size: 20px;
+}
